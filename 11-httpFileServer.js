@@ -1,3 +1,5 @@
+'use strict'
+
 const http = require('http');
 const fs = require('fs');
 const params = process.argv.slice(2)

@@ -1,4 +1,4 @@
-const filterByExt = require('./filterByExt');
+const filterByExt = require('./06-filterByExt');
 const params = process.argv.slice(2);
 
 const PATH = params[0];
